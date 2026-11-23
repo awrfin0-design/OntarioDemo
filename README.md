@@ -2,6 +2,10 @@
 
 Static copy of the homepage, section by section, with the original text, layout, styles, images and hero video.
 
+## Single-file version
+
+`dist/ontario-service-pros.html` has everything built in (styles, scripts, images, fonts, hero video). Open it by double-clicking; no server needed.
+
 ## Run locally
 
 ```bash
