@@ -18,7 +18,9 @@ City-service links like `toronto/furnace-repair/` also return 404 on the origina
 python3 -m http.server 8000
 ```
 
-Then open http://localhost:8000. Use a local server rather than double-clicking the files, so that links between pages (`about/`, `contact/` …) resolve to their `index.html`.
+Then open http://localhost:8000.
+
+`site-index.html` lists and links every page (grouped, with a filter box). It also works by double-clicking, without a server. Use a local server rather than double-clicking the files, so that links between pages (`about/`, `contact/` …) resolve to their `index.html`.
 
 ## Single-file homepage
 
