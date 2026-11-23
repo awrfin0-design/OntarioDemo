@@ -20,7 +20,11 @@ python3 -m http.server 8000
 
 Then open http://localhost:8000.
 
-`site-index.html` lists and links every page (grouped, with a filter box). It also works by double-clicking, without a server. Use a local server rather than double-clicking the files, so that links between pages (`about/`, `contact/` …) resolve to their `index.html`.
+Use a local server rather than double-clicking the files, so that links between pages (`about/`, `contact/` …) resolve to their `index.html`.
+
+## Site index
+
+`site-index.html` lists and links every page, grouped, with a filter box. It works by double-clicking, without a server.
 
 ## Single-file homepage
 
