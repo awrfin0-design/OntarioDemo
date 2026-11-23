@@ -5,6 +5,19 @@ Static copy of the whole site: original text, layout, styles, images and hero vi
 > **Before publishing:** this is a copy of a live website (content, name, phone, reviews). Read
 > [`SEO-AUDIT.md`](SEO-AUDIT.md) first. It explains why it can't rank as-is and what to change.
 
+## Homepage hero video
+
+`assets/videos/services-montage/` holds the 8-second services montage (gas fireplace, furnace, pool heater, HVAC,
+air conditioner, tankless water heater) generated with Higgsfield (Seedance 2.0 Fast, 720p):
+
+- `services-montage.webm` (1.2 MB) and `services-montage.mp4` (1.3 MB): web versions used by the homepage hero
+- `services-montage-poster.webp`: first frame, shown while loading and for visitors with data saver or reduced motion on
+- `services-montage-original.mp4`: untouched original from Higgsfield (master copy for re-editing)
+
+It loops muted behind the homepage hero on desktop and mobile, pauses when the tab is hidden, and isn't
+downloaded at all with data saver or reduced motion on. Other pages still use the original
+`assets/videos/gas-services/` clip.
+
 ## SEO
 
 - [`SEO-AUDIT.md`](SEO-AUDIT.md): full audit, what was fixed, what's open, recommendations.

@@ -158,7 +158,7 @@ def fix_page(rel, h, brand_dupes):
         changed.append('favicon')
 
     # 7. hero video: desktop only
-    if '<video' in h and 'data-desktop-video' not in h:
+    if '<video' in h and 'data-desktop-video' not in h and 'data-hero-video' not in h:
         vm = re.search(r'<video\b[^>]*>((?:<source[^>]*>)+)</video>', h)
         if vm:
             video = vm.group(0)
