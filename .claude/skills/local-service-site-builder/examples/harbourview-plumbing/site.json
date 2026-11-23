@@ -1,0 +1,71 @@
+{
+  "example": true,
+  "domain": "https://www.harbourview-plumbing.test",
+  "industry": "plumbing",
+  "language": "en-CA",
+  "business": {
+    "name": "Harbourview Plumbing & Drain",
+    "legal_name": "Harbourview Plumbing & Drain Ltd.",
+    "phone": "+1-250-555-0142",
+    "phone_display": "(250) 555-0142",
+    "email": "office@harbourview-plumbing.test",
+    "address": { "street": "214 Wharf Street", "city": "Port Alder", "region": "BC", "postal": "V0R 1A0", "country": "CA" },
+    "geo": { "lat": 49.17, "lng": -123.94 },
+    "hours": [
+      { "days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"], "opens": "07:30", "closes": "18:00" },
+      { "days": ["Saturday"], "opens": "09:00", "closes": "15:00" }
+    ],
+    "hours_text": "Mon–Fri 7:30–6, Sat 9–3, emergency line 24/7",
+    "hours_display": [
+      { "label": "Mon–Fri", "text": "7:30 AM – 6:00 PM" },
+      { "label": "Saturday", "text": "9:00 AM – 3:00 PM" },
+      { "label": "Emergencies", "text": "24/7" }
+    ],
+    "tagline_area": "Serving Port Alder, Cedar Falls and Millbrook",
+    "founded": 2011,
+    "license": "Licensed plumbing contractor #PL-0000 (example)",
+    "price_range": "$$",
+    "footer_blurb": "Family-run plumbers on the harbour side of Harbourview County since 2011.",
+    "social": []
+  },
+  "form": { "endpoint": "", "thank_you": "/thank-you/" },
+  "services_hub_description": "Drain cleaning, water heater repair and replacement, and leak detection for homes in Port Alder, Cedar Falls and Millbrook. Upfront prices, licensed plumbers.",
+  "services_hub_h1": "Plumbing services in Harbourview County",
+  "services": [
+    { "slug": "drain-cleaning", "name": "Drain Cleaning", "short": "Camera-inspected drain and sewer cleaning for slow sinks, backed-up floor drains and root-blocked laterals." },
+    { "slug": "water-heaters", "name": "Water Heaters", "short": "Repair, flushing and replacement of tank and tankless water heaters, usually the same day." },
+    { "slug": "leak-detection", "name": "Leak Detection", "short": "Non-invasive leak finding with acoustic and thermal tools, so we open one wall, not five." }
+  ],
+  "areas": [
+    { "slug": "port-alder", "name": "Port Alder" },
+    { "slug": "cedar-falls", "name": "Cedar Falls" },
+    { "slug": "millbrook", "name": "Millbrook" }
+  ],
+  "areas_hub_description": "Harbourview Plumbing & Drain serves Port Alder, Cedar Falls and Millbrook. See what we see most often in each community and how quickly we can be there.",
+  "reviews": [
+    { "author": "Dana R.", "area": "Port Alder", "source": "Example review", "rating": 5, "text": "Our basement floor drain backed up on a Sunday. They ran a camera, showed us the root mass at the property line and had it cleared in under two hours." },
+    { "author": "Marcus T.", "area": "Millbrook", "source": "Example review", "rating": 5, "text": "Quoted the water heater swap on the phone, showed up at 8, gone by noon, and the price was exactly what they said." }
+  ],
+  "pricing": {
+    "currency": "CAD",
+    "tax_rate": 0.05,
+    "tax_label": "GST",
+    "round_to": 5,
+    "disclaimer": "Example prices for testing the skill. Your technician confirms the final price before starting.",
+    "jobs": { "repair": "Repair", "maintenance": "Maintenance", "installation": "Replacement / install" },
+    "services": {
+      "drain-cleaning": { "repair": [189, 420], "maintenance": [149, 249] },
+      "water-heaters": { "repair": [210, 560], "maintenance": [159, 239], "installation": [1900, 4200] },
+      "leak-detection": { "repair": [280, 690] }
+    },
+    "timing": {
+      "standard": { "name": "Scheduled", "factor": 1.0, "note": "Next available slot" },
+      "sameday": { "name": "Same-day", "factor": 1.12 },
+      "afterhours": { "name": "After hours", "factor": 1.35 }
+    },
+    "regions": [
+      { "name": "Port Alder", "factor": 1.0, "areas": ["port-alder"] },
+      { "name": "Inland valley", "factor": 1.06, "areas": ["cedar-falls", "millbrook"] }
+    ]
+  }
+}

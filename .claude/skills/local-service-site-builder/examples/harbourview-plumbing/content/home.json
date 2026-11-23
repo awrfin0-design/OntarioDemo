@@ -1,0 +1,120 @@
+{
+  "title": "Plumber in Port Alder & Harbourview County | Harbourview",
+  "description": "Licensed plumbers for Port Alder, Cedar Falls and Millbrook. Drain cleaning, water heaters and leak detection with upfront prices and a 24/7 emergency line.",
+  "hero": {
+    "eyebrow": "Plumbers on the harbour side since 2011",
+    "h1": "Plumbing repairs in Port Alder, done right the first visit",
+    "lead": "Blocked drains, cold showers and mystery leaks, fixed by licensed plumbers who carry the parts on the truck and tell you the price before they start.",
+    "points": [
+      "Price confirmed before any work",
+      "Camera inspection on every main-line drain call",
+      "24/7 emergency line for active leaks"
+    ],
+    "cta": "Book a plumber"
+  },
+  "trust": [
+    {
+      "icon": "shield",
+      "title": "Licensed & insured",
+      "text": "Every plumber holds a provincial ticket"
+    },
+    {
+      "icon": "clock",
+      "title": "Same-day slots",
+      "text": "Most calls before noon are seen today"
+    },
+    {
+      "icon": "tool",
+      "title": "Stocked trucks",
+      "text": "Common valves, elements and fittings on board"
+    },
+    {
+      "icon": "star",
+      "title": "1-year labour warranty",
+      "text": "On every repair we make"
+    }
+  ],
+  "services": {
+    "heading": "What we fix most",
+    "lead": "Three kinds of call make up nine out of ten of our jobs. Here is how we handle each one."
+  },
+  "pricing": {
+    "heading": "See a price range before you call",
+    "lead": "Pick the job, your community and how soon you need us. The range comes from our actual job history in Harbourview County."
+  },
+  "why": {
+    "heading": "Why Port Alder homeowners call us back",
+    "html": "<p>Harbourview County has two very different kinds of plumbing. Down by the harbour, many homes still run cast-iron stacks and clay sewer laterals from the 1960s, and the salt air is hard on exposed copper. Up the valley in Cedar Falls and Millbrook, newer subdivisions sit on well water with enough iron and hardness to scale a water heater in a few years. We see both every week, so we bring the right tools for the street we're on.</p><p>We would rather fix the cause than come back. That's why a backed-up drain gets a camera run after it's cleared, and why a failed water heater gets a water test before we recommend a replacement.</p>",
+    "points": [
+      {
+        "title": "We show you the problem",
+        "text": "Camera footage and photos sent to your phone before we quote."
+      },
+      {
+        "title": "Flat-rate pricing",
+        "text": "You approve a price for the job, not an hourly meter."
+      },
+      {
+        "title": "Clean work",
+        "text": "Drop cloths, shoe covers and a tidy-up before we leave."
+      },
+      {
+        "title": "Local crew",
+        "text": "Our four plumbers live in the county they work in."
+      }
+    ]
+  },
+  "process": {
+    "heading": "How a visit works",
+    "steps": [
+      {
+        "title": "Call or book online",
+        "text": "Tell us what you're seeing. We give a price range and the earliest arrival window."
+      },
+      {
+        "title": "Diagnose",
+        "text": "The plumber finds the cause and shows you what they found."
+      },
+      {
+        "title": "Approve the price",
+        "text": "You get a fixed price for the repair. Nothing starts until you say yes."
+      },
+      {
+        "title": "Fix and test",
+        "text": "We repair, test under pressure or flow, clean up, and explain what to watch for."
+      }
+    ]
+  },
+  "reviews": {
+    "heading": "From recent jobs"
+  },
+  "faq": {
+    "heading": "Common questions",
+    "items": [
+      {
+        "q": "Do you charge a call-out fee?",
+        "a": "There is a diagnostic fee for each visit, and it's credited to the repair if you go ahead with it. We tell you the fee on the phone before booking."
+      },
+      {
+        "q": "How fast can you get to Millbrook?",
+        "a": "Millbrook is about 25 minutes from our shop. For an active leak we aim to be there within two hours, day or night."
+      },
+      {
+        "q": "Can you work on well-water systems?",
+        "a": "Yes. We service pressure tanks, softeners and the water heaters that sit downstream of them, which is where hard well water does most of its damage."
+      }
+    ]
+  },
+  "areas": {
+    "heading": "Where we work",
+    "lead": "Our shop is on Wharf Street in Port Alder. We cover the whole harbour side and the valley up to Millbrook."
+  },
+  "cta": {
+    "heading": "Water where it shouldn't be?",
+    "lead": "Shut off the main valve if you can, then call. Someone answers 24/7."
+  },
+  "contact": {
+    "heading": "Book a plumber",
+    "lead": "Send us a few details and we'll call back within the hour during business hours."
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Plumber in Millbrook | Well Water & Drains | Harbourview",
+  "description": "Plumbing in Millbrook: well-water systems, hard-water heater repairs and septic-safe drain cleaning, about 25 minutes from our Port Alder shop.",
+  "h1": "Plumbing in Millbrook",
+  "lead": "Millbrook is our furthest regular stop, and the plumbing up here is its own kind: private wells, septic fields and long service runs.",
+  "facts_heading": "What's different about plumbing in Millbrook",
+  "local_facts": [
+    "Most homes are on private wells, so pressure tanks and well pumps are part of almost every no-water call.",
+    "Hard, iron-heavy well water shortens water heater life; we flush and test on every heater visit here.",
+    "Septic systems mean no harsh chemical cleaners; we clear drains mechanically and tell you when the tank needs pumping.",
+    "Drive time from our shop is about 25 minutes, so we group non-urgent Millbrook jobs on Tuesday and Thursday mornings."
+  ],
+  "sections": [
+    { "type": "text", "heading": "No water? Start with the pressure tank", "html": "<p>When a Millbrook home loses water, the well itself is rarely dry. Far more often a pressure switch has burned contacts, or the bladder in the pressure tank has failed so the pump short-cycles until it trips. We carry switches, gauges and common tank sizes, so most of these calls are fixed in one visit.</p><p>If the pump does need pulling, we'll tell you before we start and bring in a pump crew we work with regularly, so you're not left looking for one yourself.</p>" },
+    { "type": "text", "heading": "Booking from Millbrook", "html": "<p>For emergencies we come straight up any time. For routine work, like a heater flush, a dripping tap or a softener check, we suggest a Tuesday or Thursday morning slot, when a plumber is already in the valley. That keeps travel off your bill.</p>" },
+    { "type": "faq", "heading": "Millbrook questions", "items": [
+      { "q": "Do you service water softeners?", "a": "Yes: resin cleaning, valve repair and bypass installation. We'll also test your water to check the softener is set right for it." },
+      { "q": "Is there a travel charge to Millbrook?", "a": "Not on scheduled Tuesday and Thursday visits. Emergency calls carry the same after-hours rate as anywhere else in the county." }
+    ] }
+  ]
+}

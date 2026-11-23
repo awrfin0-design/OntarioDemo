@@ -1,0 +1,70 @@
+{
+  "title": "Water Heater Repair & Replacement | Harbourview Plumbing",
+  "description": "Tank and tankless water heater repair, flushing and same-day replacement in Port Alder, Cedar Falls and Millbrook, with a water test first.",
+  "h1": "Water heater repair and replacement",
+  "lead": "No hot water usually means one failed part, not a whole new heater. We test first, repair what can be repaired, and replace only when the tank itself is done.",
+  "sections": [
+    {
+      "type": "text",
+      "heading": "Hard water is the real problem in the valley",
+      "html": "<p>Wells in Cedar Falls and Millbrook commonly run hard and high in iron. In a tank heater that turns into a layer of scale on the bottom that the burner or element has to heat through, which is the popping and rumbling sound people describe. In a tankless unit it coats the heat exchanger until the unit throws an error and shuts down.</p><p>On the harbour side, the water is softer, so tanks tend to fail from age and anode wear instead. Either way, a ten-minute water test tells us which situation you're in, and that decides whether a flush, a part or a new heater makes sense.</p>"
+    },
+    {
+      "type": "list",
+      "heading": "Repairs we carry parts for",
+      "items": [
+        "Elements and thermostats for electric tanks",
+        "Thermocouples, thermopiles and gas valves for atmospheric gas tanks",
+        "Igniters and flame sensors for power-vented tanks",
+        "Anode rods, including powered anodes for smelly hot water",
+        "Descaling kits and isolation valves for tankless units"
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "When we recommend replacing",
+      "html": "<p>If the tank is leaking from the body, it can't be repaired and we'll say so plainly. If it's over twelve years old and needs a gas valve, the repair may cost close to half a new heater, so we'll show you both prices. When you do replace, we size the new unit to your household and your water, and we install a mixing valve and expansion tank where code calls for them.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Typical prices",
+      "columns": [
+        "Job",
+        "Usual range"
+      ],
+      "rows": [
+        [
+          "Element or thermostat (electric)",
+          "$210 – $340"
+        ],
+        [
+          "Gas valve or thermocouple",
+          "$240 – $560"
+        ],
+        [
+          "Tankless descale and service",
+          "$189 – $239"
+        ],
+        [
+          "40–50 gal tank replacement, installed",
+          "$1,900 – $2,900"
+        ]
+      ],
+      "note_html": "<p>Example prices. Your plumber confirms the price before starting.</p>"
+    },
+    {
+      "type": "faq",
+      "heading": "Water heater questions",
+      "items": [
+        {
+          "q": "Can you replace it the same day?",
+          "a": "Usually, yes. We keep the common 40 and 50 gallon gas and electric tanks in stock, so a morning call is normally hot water by the afternoon."
+        },
+        {
+          "q": "Is tankless worth it?",
+          "a": "It can be for larger households with steady demand, but on hard well water it needs a softener or regular descaling. We'll give you the running cost of both options for your home."
+        }
+      ]
+    }
+  ]
+}

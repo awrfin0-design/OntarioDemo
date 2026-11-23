@@ -1,0 +1,67 @@
+{
+  "version": 1,
+  "industry": "plumbing",
+  "seed_input": {
+    "name": "Harbourview Plumbing & Drain",
+    "domain": "harbourview-plumbing.test",
+    "salt": 0
+  },
+  "colors": {
+    "primary": "#233ec2",
+    "accent": "#da314e",
+    "dark": "#0c1021",
+    "ink": "#1b1d25",
+    "muted": "#636574",
+    "soft": "#eef0f9",
+    "line": "#dddfe9",
+    "scheme": "triad"
+  },
+  "fonts": {
+    "heading": "Montserrat",
+    "body": "Source Sans 3",
+    "heading_weight": 800,
+    "heading_case": "none",
+    "heading_tracking": "0",
+    "scale": 1.2,
+    "base_px": 17
+  },
+  "shape": {
+    "style": "soft",
+    "radius": 8,
+    "button": "solid",
+    "shadow": "none",
+    "border_px": 1
+  },
+  "layout": {
+    "container": 1300,
+    "density": "airy",
+    "section_rhythm": "bold-bands"
+  },
+  "variants": {
+    "header": "centered",
+    "hero": "fullbleed",
+    "services": "rows",
+    "why": "split",
+    "process": "steps",
+    "reviews": "quote",
+    "faq": "columns",
+    "areas": "columns",
+    "cta": "band",
+    "footer": "compact"
+  },
+  "home_order": [
+    "hero",
+    "trust",
+    "pricing",
+    "why",
+    "faq",
+    "services",
+    "reviews",
+    "areas",
+    "process",
+    "cta",
+    "contact"
+  ],
+  "class_prefix": "n05",
+  "icon_style": "solid"
+}

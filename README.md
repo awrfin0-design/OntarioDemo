@@ -2,6 +2,25 @@
 
 Static copy of the whole site: original text, layout, styles, images and hero video, page by page.
 
+> **Before publishing:** this is a copy of a live website (content, name, phone, reviews). Read
+> [`SEO-AUDIT.md`](SEO-AUDIT.md) first. It explains why it can't rank as-is and what to change.
+
+## SEO
+
+- [`SEO-AUDIT.md`](SEO-AUDIT.md): full audit, what was fixed, what's open, recommendations.
+- `tools/seo_fix.py`: technical fixes already applied (canonicals, single H1, image sizes and lazy loading,
+  broken links, favicon, desktop-only hero video, noindex on utility pages). Safe to re-run.
+- `tools/seo_finalize.py --site-url https://your-domain`: run once the domain is known; makes canonical and
+  Open Graph URLs absolute and writes `sitemap.xml` + `robots.txt`.
+- Re-audit any time: `python3 .claude/skills/local-service-site-builder/scripts/seo_audit.py . --site-url https://your-domain`
+
+## Site builder skill
+
+`.claude/skills/local-service-site-builder/` is a Claude Code skill for building new local-service sites from an
+industry, a region and real business details. Each site gets a unique design system and unique content, plus
+schema, sitemap and a pricing calculator, and the build checks it against your other sites before launch.
+Start with its `SKILL.md`. In Claude Code, just ask, e.g. "build a site for a roofing company in Halifax".
+
 ## What's included (3,683 pages)
 
 - Homepage, About, Contact, Services (+ 6 service category pages), Brands, Service Areas, Privacy Policy, Thank You

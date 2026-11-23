@@ -1,0 +1,26 @@
+{
+  "title": "Leak Detection in Port Alder | Non-Invasive | Harbourview",
+  "description": "Find hidden water leaks without tearing out walls. Acoustic and thermal leak detection for homes in Port Alder, Cedar Falls and Millbrook.",
+  "h1": "Leak detection without the guesswork",
+  "lead": "A rising water bill, a warm patch on the floor, a stain that keeps spreading. We find the leak with listening gear and thermal imaging, then open the wall in one place.",
+  "sections": [
+    { "type": "text", "heading": "Signs you have a hidden leak", "html": "<p>Most hidden leaks announce themselves slowly. The water meter dial keeps turning with every tap closed. A section of hardwood starts to cup. You hear water running at night when nobody is using any. In older harbour-side homes with copper lines, pinhole leaks are common where the pipe passes through a damp crawlspace, and they can drip for months before anything shows upstairs.</p><p>Slab homes in the newer valley subdivisions have a different pattern: a hot-water line under the slab starts leaking and you notice a warm spot on the tile. That one needs to be found precisely, because every extra square foot of concrete we cut is time and money.</p>" },
+    { "type": "list", "heading": "Tools we use", "items": [
+      "Meter and pressure tests to confirm there is a leak and which side of the system it's on",
+      "Acoustic ground microphones that pick up water escaping a pressurised line",
+      "Thermal imaging to trace hot-water lines through floors and walls",
+      "Moisture meters to map how far the water has spread",
+      "Tracer gas for leaks too quiet to hear"
+    ] },
+    { "type": "steps", "heading": "How a leak search goes", "items": [
+      { "title": "Confirm", "text": "We isolate the fixtures and pressure-test each line to narrow the search." },
+      { "title": "Locate", "text": "Listening and imaging pinpoint the spot, usually to within a hand's width." },
+      { "title": "Report", "text": "Photos and moisture readings you can send straight to your insurer." },
+      { "title": "Repair", "text": "We open the smallest area possible, repair the line and re-test before closing up." }
+    ] },
+    { "type": "faq", "heading": "Leak detection questions", "items": [
+      { "q": "Will my insurance cover it?", "a": "Many policies cover the cost of finding and accessing a sudden leak, though not always the pipe repair. Our written report has what most adjusters ask for." },
+      { "q": "How long does it take?", "a": "Most searches take one to three hours. Slab leaks and long underground service lines can take longer." }
+    ] }
+  ]
+}

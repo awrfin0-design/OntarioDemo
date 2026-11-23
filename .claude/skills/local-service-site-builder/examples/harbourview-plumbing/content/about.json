@@ -1,0 +1,16 @@
+{
+  "title": "About Harbourview Plumbing & Drain | Port Alder Plumbers",
+  "description": "Meet the family-run plumbing company that has served Port Alder, Cedar Falls and Millbrook since 2011: four licensed plumbers, one shop on Wharf Street.",
+  "h1": "About Harbourview Plumbing & Drain",
+  "lead": "Four licensed plumbers, two service vans and one shop on Wharf Street. We've been fixing Harbourview County's pipes since 2011.",
+  "sections": [
+    { "type": "text", "heading": "How we started", "html": "<p>Harbourview Plumbing began as one van and one plumber who was tired of seeing the same drains blocked twice a year because nobody had looked down the line. The camera came first, before the second van. It's still the thing customers mention most.</p><p>Today the business is run by the same family. Every plumber on the crew lives in the county, which is why we know which streets in Port Alder still have clay laterals and which valley wells run hardest.</p>" },
+    { "type": "list", "heading": "What we promise on every job", "items": [
+      "A price you approve before any work starts",
+      "Photos or video of the problem, sent to you",
+      "A clean work area when we leave",
+      "One year of labour warranty on repairs"
+    ] },
+    { "type": "text", "heading": "Licensing and insurance", "html": "<p>All of our plumbers hold provincial plumbing tickets, and the company carries liability insurance and workers' compensation coverage. Ask and we'll email the certificates before your appointment.</p>" }
+  ]
+}

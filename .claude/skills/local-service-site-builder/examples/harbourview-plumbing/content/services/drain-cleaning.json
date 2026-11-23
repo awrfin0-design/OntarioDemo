@@ -1,0 +1,83 @@
+{
+  "title": "Drain Cleaning in Port Alder, Camera Inspected | Harbourview",
+  "description": "Drain and sewer cleaning in Port Alder, Cedar Falls and Millbrook. Every main-line clear is followed by a camera run so you know why it blocked.",
+  "h1": "Drain cleaning in Harbourview County",
+  "lead": "A slow drain is a warning. A backed-up floor drain is an emergency. We clear both, then put a camera down the line so you know whether it will happen again.",
+  "sections": [
+    {
+      "type": "text",
+      "heading": "Why drains block here",
+      "html": "<p>Most of the blocked main lines we clear in Port Alder have the same story: a clay or cast-iron lateral laid in the 1960s, joints that have shifted a few millimetres over the years, and tree roots that found the gap. Grease and wipes then catch on the roots until the line closes.</p><p>In the newer homes up the valley, the cause is usually different. PVC lines don't let roots in, but long, shallow runs to the street can belly and hold water, and that standing water collects sludge. Knowing which kind of line you have changes how we clear it and what we recommend after.</p>"
+    },
+    {
+      "type": "list",
+      "heading": "What's included in a drain call",
+      "items": [
+        "Clearing the blockage with the right tool for the pipe: hand auger for fixtures, sectional machine for mains, hydro-jet for grease",
+        "A camera run of the main line after clearing, recorded and sent to you",
+        "Location and depth of any defect, marked on the lawn if it needs digging later",
+        "Flow test at the lowest fixture before we leave",
+        "A written note of what we found, for your records or your insurer"
+      ]
+    },
+    {
+      "type": "steps",
+      "heading": "What happens on the day",
+      "items": [
+        {
+          "title": "Find the access point",
+          "text": "We use your cleanout if you have one. If not, we pull a toilet rather than cut a pipe."
+        },
+        {
+          "title": "Clear and flush",
+          "text": "Cutting heads sized to the pipe, then a flush to carry the debris away."
+        },
+        {
+          "title": "Inspect",
+          "text": "Camera from the cleanout to the city connection. We talk you through the footage."
+        },
+        {
+          "title": "Recommend",
+          "text": "Nothing, a maintenance clean, a spot repair or a liner. You decide with the video in front of you."
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Typical prices",
+      "columns": [
+        "Job",
+        "Usual range"
+      ],
+      "rows": [
+        [
+          "Sink, tub or shower drain",
+          "$189 – $260"
+        ],
+        [
+          "Main line clear with camera",
+          "$290 – $420"
+        ],
+        [
+          "Hydro-jet for grease or sludge",
+          "$480 – $750"
+        ]
+      ],
+      "note_html": "<p>Example prices. Your plumber confirms the price before starting.</p>"
+    },
+    {
+      "type": "faq",
+      "heading": "Drain cleaning questions",
+      "items": [
+        {
+          "q": "Will chemical drain cleaner fix it?",
+          "a": "It can clear a hair clog close to the drain, but it won't touch roots or a sagging line, and it's hard on older cast iron. If it hasn't worked once, don't pour more in."
+        },
+        {
+          "q": "How often should a root-prone line be cleaned?",
+          "a": "Usually every 12 to 18 months. The camera footage tells us how fast the roots are coming back, so we can set a schedule that fits your line."
+        }
+      ]
+    }
+  ]
+}
