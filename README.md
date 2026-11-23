@@ -30,6 +30,21 @@ Use a local server rather than double-clicking the files, so that links between 
 
 `dist/ontario-service-pros.html` is the homepage only, with everything (styles, scripts, images, fonts, hero video) built into one file. Open it by double-clicking. Its links to other pages won't work on their own.
 
+## Service pricing calculator (homepage)
+
+The third section of the homepage (`#pricing`, between the service cards and About Us) estimates a price range from four choices: service, job type (repair / maintenance / installation), city and timing (scheduled / same-day / emergency).
+
+- **Edit prices in one place:** the `PRICING` table at the top of `assets/js/pricing-calculator.js`.
+  - `services` – base `[low, high]` range per service and job type (CAD, before tax).
+  - `regions` – each region's cities and its price factor (`1.10` = +10%). All 111 service-area cities are assigned.
+  - `timing` – factor for same-day and emergency service.
+  - `taxRate` – used for the "with HST" line.
+- **The current numbers are placeholders.** Replace them with real prices before going live.
+- **"Book at this estimate"** opens the site's existing Get a Quote pop-up with the estimate pre-filled in the message.
+- **Styles:** `assets/css/pricing-calculator.css`.
+
+If you change prices, rebuild `dist/ontario-service-pros.html` (or edit the same `PRICING` table inside it), because the single-file version has its own copy.
+
 ## Changes from the original
 
 - Google Tag Manager tracking removed on every page.
